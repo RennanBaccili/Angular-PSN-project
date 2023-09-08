@@ -1,9 +1,10 @@
 .home__container{
 	width: 90%;
 	margin: auto;
-	border: 1px solid white;
 	padding-top: 50px;
 	display: flex;
+	max-width: 1300px;
+	gap: 20px;
 
 	justify-content: space-around;
 	align-items: baseline;
